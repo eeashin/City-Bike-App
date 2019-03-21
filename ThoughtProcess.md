@@ -36,7 +36,7 @@
 
 [Linkedin](https://www.linkedin.com/in/eashin/)
 
-_**Note:** Please check also the initial **ThoughtProcess.md** files in the repo. You also can check some screenshot of application in **screenshot folder** in the application folder_
+_**Note:** You also can check some screenshot of application in **screenshot folder** in the application folder_
 
 
 
